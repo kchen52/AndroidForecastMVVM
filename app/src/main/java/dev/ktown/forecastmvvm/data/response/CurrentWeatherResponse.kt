@@ -1,4 +1,4 @@
-package dev.ktown.forecastmvvm.data
+package dev.ktown.forecastmvvm.data.response
 
 import com.google.gson.annotations.SerializedName
 
