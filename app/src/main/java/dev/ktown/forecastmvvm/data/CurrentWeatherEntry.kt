@@ -3,7 +3,7 @@ package dev.ktown.forecastmvvm.data
 
 import com.google.gson.annotations.SerializedName
 
-data class Current(
+data class CurrentWeatherEntry(
     val cloudcover: Int,
     val feelslike: Int,
     val humidity: Int,
